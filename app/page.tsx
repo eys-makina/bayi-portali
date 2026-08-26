@@ -73,7 +73,7 @@ export default function Home() {
               href="/kayit-ol"
               className="login-guest"
             >
-              Bayi kaydı oluşturmak için tıklayın
+              Bayi kaydı oluşturmak için tıklayın.
             </a>
 
             <div className="login-footer">
