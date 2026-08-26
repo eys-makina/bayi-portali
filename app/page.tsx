@@ -47,7 +47,7 @@ export default function Home() {
                 fontWeight: "bold",
               }}
             >
-              İç ve Dış Portal
+              Dış Portal
             </p>
           </div>
 
